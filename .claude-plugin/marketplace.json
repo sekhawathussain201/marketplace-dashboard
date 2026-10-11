@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "zaiqa-restaurant-marketplace",
+  "version": "1.0.0",
+  "description": "Zaiqa Royal Grill - Social Media Automation Marketplace: Reads the restaurant website, creates delicious food promo cards, platter showcases, short reels/shorts with music, and schedules posts through Buffer with Cloudflare Pages.",
+  "owner": {
+    "name": "Sekhawat Arain",
+    "email": "sekhawatarain79@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "zaiqa-social-automation",
+      "source": "./plugin",
+      "description": "Social Media Automation tailored for Zaiqa Royal Grill Bistro & Express Kitchen. Generates high-converting food posts, launch cards, reels, and schedules daily posts on Instagram, Facebook, TikTok, YouTube, LinkedIn and X via Buffer.",
+      "category": "content",
+      "tags": ["restaurant", "food", "biryani", "bbq", "karachi", "video", "image", "buffer", "cloudflare", "remotion", "social"],
+      "version": "1.0.0",
+      "author": {
+        "name": "Sekhawat Arain",
+        "email": "sekhawatarain79@gmail.com"
+      }
+    }
+  ]
+}

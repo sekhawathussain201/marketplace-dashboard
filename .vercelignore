@@ -1,0 +1,10 @@
+node_modules
+cloudflared.exe
+.git
+.remotion
+*.log
+video
+test
+plugin
+.claude-plugin
+

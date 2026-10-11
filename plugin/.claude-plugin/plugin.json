@@ -1,0 +1,9 @@
+{
+  "name": "zaiqa-social-automation",
+  "version": "1.0.0",
+  "description": "Make restaurant launch pictures, foodie reel shorts and full menu tour videos for Zaiqa Royal Grill, then schedule them with Buffer.",
+  "author": {
+    "name": "Sekhawat Arain",
+    "email": "sekhawatarain79@gmail.com"
+  }
+}
